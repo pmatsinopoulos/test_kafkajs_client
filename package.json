@@ -1,0 +1,10 @@
+{
+  "name": "test_kafka_js_client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Panagiotis Matsinopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.2"
+  }
+}
